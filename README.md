@@ -1,3 +1,3 @@
 # Quickdraw Badge
 
-Pair Extraordinaire practice..
+Pair Extraordinaire practice...
