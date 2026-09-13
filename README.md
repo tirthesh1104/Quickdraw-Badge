@@ -1,3 +1,1 @@
-# Quickdraw Badge
-
-Pair Extraordinaire practice..
+This is my collaborative contribution.
